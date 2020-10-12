@@ -2,8 +2,6 @@
 
 > A simple PyTorch Implementation of  Generative Adversarial Networks, focusing on anime face drawing.
 
-
-
 ### Randomly Generated Images
 
 The images are generated from a DCGAN model trained on 143,000 anime character faces for 100 epochs.
